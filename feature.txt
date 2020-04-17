@@ -1,6 +1,10 @@
 public String greet()
 {
-
+console.log("hello world");
    return "hello world";
 
+}
+
+public String reply(){
+	return "Hi!"
 }
